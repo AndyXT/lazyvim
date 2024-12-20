@@ -1,6 +1,7 @@
 return {
   {
     "tadaa/vimade",
+    lazy = true,
     event = "VeryLazy",
     -- default opts (you can partially set these or configure them however you like)
     opts = {

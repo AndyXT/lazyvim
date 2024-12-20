@@ -4,10 +4,12 @@ return {
     opts = {
       ensure_installed = {
         "bash",
+        "c",
         "html",
         "javascript",
         "json",
         "lua",
+        "fennel",
         "markdown",
         "markdown_inline",
         "python",

@@ -4,5 +4,6 @@ return {
     dependencies = {
       "MunifTanjim/nui.nvim",
     },
+    lazy = true,
   },
 }

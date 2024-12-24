@@ -1,0 +1,20 @@
+{
+  "commands": [
+    {
+      "command": ["ls", "-la"],
+      "description": "testing"
+    },
+    {
+      "command": ["echo", "Hello", "World!"],
+      "description": "testing"
+    },
+    {
+      "command": ["git", "status"],
+      "description": "testing"
+    },
+    {
+      "command": ["pwd"],
+      "description": "testing"
+    }
+  ]
+}
